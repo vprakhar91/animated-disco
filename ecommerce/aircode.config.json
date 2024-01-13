@@ -1,0 +1,7 @@
+{
+  "name": "E-commerce",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [],
+  "typescript": false
+}
